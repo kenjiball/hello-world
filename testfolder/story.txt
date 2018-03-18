@@ -1,2 +1,3 @@
 this is a test story file
 and it just contains text
+now I have made some edits to this file
